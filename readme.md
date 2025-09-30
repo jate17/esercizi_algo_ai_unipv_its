@@ -1,6 +1,6 @@
 # Esercizi Algoritmi e Strutture Dati
 
-Source: (Link della sorgente)[https://python.angelocardellicchio.it/]
+Source: [Link della sorgente](https://python.angelocardellicchio.it/)
 
 
 
