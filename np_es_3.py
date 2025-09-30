@@ -1,5 +1,6 @@
 import numpy as np 
 
+#2.1.4
 
 a = np.array([[1,2], [3,4]])
 

@@ -1,6 +1,6 @@
 import numpy as np 
 import time
-
+#2.1.1
 start = time.time()
 
 a = np.array([[1,2], [3,4]])

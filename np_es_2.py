@@ -1,10 +1,11 @@
 import numpy as np 
 
-
+#2.1.2
 def creare_array(rows = 1, cols = 1, val_min = 0, val_max = 100) -> np.ndarray:
     return np.random.randint(val_min,val_max, size=(rows,cols))   
 
 
+#2.1.3
 def rettifica(arr) -> np.array:
     arr[arr < 0] = 0
     return arr
